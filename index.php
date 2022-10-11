@@ -1,5 +1,5 @@
 <?php
-    //Hi ther
+    //Hit there
     //Connect to php
     include_once "config/connect.php";
     include_once "user/loginHome.html";
